@@ -18,24 +18,6 @@
         "domain":"nflioslivesvg2-i.akamaihd.net",
         "protocols": ["http", "https"],
         "dnat": true
-      },
-      {
-        "alias":"nfl_xext",
-        "domain":"nflxext.com",
-        "protocols": ["http", "https"],
-        "dnat": true
-      },
-      {
-        "alias":"nfl_ximg",
-        "domain":"nflximg.net",
-        "protocols": ["http", "https"],
-        "dnat": true
-      },
-      {
-        "alias":"nfl_xvideo",
-        "domain":"nflxvideo.net",
-        "protocols": ["http", "https"],
-        "dnat": true
       }
     ]
   }
